@@ -44,7 +44,7 @@ def extract_details(post_link):
 
     return text_data,images,file,title,filtered_tags
 
-def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path):
+def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path,post_link):
 
     try:     
         markdown_path=write_path+"\\"+year_path+"\\"+file+"\\"+file
@@ -56,9 +56,11 @@ def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path)
         month=year_path.split("\\")[1]
         date_val=f"{count}-{month}-{year}"
         date=' date: "{0}"'.format(date_val)
+        oldUrl=' oldUrl: "{0}"'.format(post_link)
 
         mdFile.new_line(format_data+val_title)
         mdFile.new_line(date)
+        mdFile.new_line(oldUrl)
         mdFile.new_line(" tag:")
         mdFile.new_list(items=filtered_tags,marked_with="  -")      
         mdFile.write(format_data)
@@ -95,7 +97,7 @@ def extract_images(images,write_path,file,empty_text,year_path):
         if text=="":
             text_index=text_data.index(text)
             try:
-                local_img_path=jpg_folder+"\\"+img_files[empty_text-1]
+                local_img_path="images"+"\\"+img_files[empty_text-1]
                 text_data[text_index]=local_img_path
                 empty_text=empty_text+1
             except:
@@ -128,4 +130,4 @@ if __name__ == "__main__":
         empty_text=1
         text_data, images, file, title, filtered_tags=extract_details(post_link)
         filtered_data=extract_images(images,write_path,file,empty_text,year_path)
-        make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path)
+        make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path,post_link)
