@@ -5,6 +5,7 @@
 ---
  title: "Sathya Sai with Students: Be Perfect! - By Prof. E. Mukundan"  
  date: "4-12-2021"  
+ oldUrl: "https://sathyasaiwithstudents.blogspot.com/2021/12/be-prefect-by-prof-e-mukundan.html"  
  tag:
   - Experiences of Teachers
   - Brindavan
@@ -12,7 +13,7 @@
   - Youth
 ---
   
-![image](E:\upwork-17\main\2021\12\be-prefect-by-prof-e-mukundan\images\img0.jpg)  
+![image](images\img0.jpg)  
 
 
 Years ago, Bhagavan granted interview to a group of youngsters from Kerala. Bhagavan graciously materialized a ring and put it on the finger of one of the boys. Amazed and overjoyed, he was enjoying the beauty of the Creator’s Creation. “Is ring perfect?” queried the Lord. “Yes, Swami!” the boy answered. To this, Swami said, “Be perfect!” Life’s journey as a humble child of our Beloved Bhagavan is a journey ‘from Sai, with Sai, to Sai’. This journey demands perfection at each and every step, then only can we realize the perfection that is within ourselves!  
@@ -68,7 +69,7 @@ As I entered the doctor’s room at the NIIMHANS, he greeted me with a smile as 
 
 The rehearsal for the drama, ‘Bhakta Hanuman’, to be presented in the Divine Presence was on. One night, Swami came in my wife’s dream and told her that the boy who was enacting the role of Hanuman was not holding the mace in the way it should be. True, Swami takes care of even the minutest aspects of our life. Gratitude to our Beloved Bhagavan cannot be expressed fully. It is not to be explained with words, but to be expressed by plunging ourselves into Swami’s Divine Mission. What greater opportunity can we have than to be part of His Story!  
   
-![image](E:\upwork-17\main\2021\12\be-prefect-by-prof-e-mukundan\images\img1.jpg)  
+![image](images\img1.jpg)  
 
 
 Source: Sai Sparshan (2005)  
