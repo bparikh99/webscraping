@@ -52,7 +52,9 @@ def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path)
         format_data="---"+"\n"
         val_title=' title: "{0}"'.format(title)
         count=count+1
-        date_val=f"{count}-12-2021"
+        year=year_path.split("\\")[0]
+        month=year_path.split("\\")[1]
+        date_val=f"{count}-{month}-{year}"
         date=' date: "{0}"'.format(date_val)
 
         mdFile.new_line(format_data+val_title)
