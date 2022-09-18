@@ -1,7 +1,3 @@
-
-
-
-  
 ---
 title: Sathya Sai with Students: Be Perfect! - By Prof. E. Mukundan  
 date: 4-12-2021  
