@@ -3,14 +3,14 @@
 
   
 ---
- title: "Sathya Sai with Students: Be Perfect! - By Prof. E. Mukundan"  
- date: "4-12-2021"  
- oldUrl: "https://sathyasaiwithstudents.blogspot.com/2021/12/be-prefect-by-prof-e-mukundan.html"  
- tag:
-  - Experiences of Teachers
-  - Brindavan
-  - Kerala
-  - Youth
+title: "Sathya Sai with Students: Be Perfect! - By Prof. E. Mukundan"  
+date: "4-12-2021"  
+oldUrl: "https://sathyasaiwithstudents.blogspot.com/2021/12/be-prefect-by-prof-e-mukundan.html"  
+tags:
+ - Experiences of Teachers
+ - Brindavan
+ - Kerala
+ - Youth
 ---
   
 ![image](images\img0.jpg)  
