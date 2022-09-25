@@ -1,98 +1,78 @@
 ---
-title: "Sathya Sai with Students: How can we make the New Year a Divine Experience?"  
-date: 2-12-2021  
-oldUrl: https://sathyasaiwithstudents.blogspot.com/2021/12/how-can-we-make-new-year-divine.html  
+title: "Sathya Sai with Students: Be Perfect! - By Prof. E. Mukundan"  
+date: 5-12-2021  
+oldUrl: https://sathyasaiwithstudents.blogspot.com/2021/12/be-prefect-by-prof-e-mukundan.html  
 tag:
-  - Discourses to Students
-  - New Year
+  - Experiences of Teachers
+  - Brindavan
+  - Kerala
+  - Youth
 ---
   
 ![image](images/img0.jpg)
 
 
-Every man has his origin in Truth. He is sustained by Truth. And he merges in Truth. He is the embodiment of Truth. When every individual recognizes this truth, the whole world will be permeated by Truth. What man should seek today is not pleasure. Nor is his goal sorrow. Man should bring under his control the source of pleasure and pain. More than pleasure, it is pain that awakens the wisdom in man. If you study the lives of great men, you find that it is out of trouble and pain that they derived wisdom. Without sorrow there can be no wisdom. It is pain that teaches many wise lessons to man.
+Years ago, Bhagavan granted interview to a group of youngsters from Kerala. Bhagavan graciously materialized a ring and put it on the finger of one of the boys. Amazed and overjoyed, he was enjoying the beauty of the Creator’s Creation. “Is ring perfect?” queried the Lord. “Yes, Swami!” the boy answered. To this, Swami said, “Be perfect!” Life’s journey as a humble child of our Beloved Bhagavan is a journey ‘from Sai, with Sai, to Sai’. This journey demands perfection at each and every step, then only can we realize the perfection that is within ourselves!
 
 
-Not realizing this profound truth, man pursues pleasure endlessly. No doubt man needs to be happy. But how is happiness to be achieved? It is only when sorrow is overcome that man realizes happiness. Hence everyone should welcome sorrow in the same spirit in which he greets happiness. Wherefrom does pleasure come? When pain is got rid of, pleasure is secured. 
+This journey to perfection demands constant self-audit; the ‘ABC of Life’ that Swami has given us, “Always Be Careful” is very important in this regard. During one of the Vishu elebrations, I got the opportunity to speak in the Divine Presence. In the speech, I highlighted Bhagavan’s assurance, “When you take one step, I take a hundred.” In the Divine Discourse that followed, Bhagavan said, “What Mukundan said is correct. When you take one step, I take a hundred. But, that one step must be in the right direction.” The awareness about this ‘right direction’ must be the light that guides our life’s journey.
 
 
-Treat pleasure and pain alike as Divine Gifts 
-
-
-In our country today the young boys and girls are the inheritors of the prosperity or poverty of the nation. The future progress of the nation depends on them. Hence, these boys and girls are the true wealth of the nation. It has to be realized that man is the architect of his own pleasure and pain. Hence he should face with equanimity whatever happens to him – good or evil.
-
-
-God is described as Siddhi Swaroopa (the embodiment of wish fulfillment). He is also described as Amogha (One without a limit or measure). This means that the power of the Divine is infinite. He is also known as Aprameya (the immeasurable). Hence, everyone should treat whatever happens to him as a gift from God. Pleasure and pain should be treated alike as Divine gifts. There is a unique joy in this process. 
-
-
-In daily life we tend to treat defeat, loss or grief as calamities. But, nothing occurs in the world without a cause. Hunger is the cause for eating. Thirst is the cause for drinking.  Difficulties are the cause of sorrow. If man is to enjoy enduring happiness, he must discover the source of such happiness. That source is love (prema). There is nothing greater than love in this world. Everything has a price. The price to be paid for enduring happiness is Divine Love. Without Love, no object can give you real happiness. Hence, the primary wealth for man is Love. Everyone should seek to acquire this wealth. With this wealth anyone can enjoy enduring bliss.
-
-
-Pain divinizes the pleasure that follows it
-
-
-We witness in the world all kinds of pains and sorrows. But none of these is permanent. Every term of pain is followed by pleasure. The experience of pleasure is refined and enhanced by the earlier experience of pain. Like the refinement of gold by melting in a crucible, pain divinises the pleasure that follows it.
-
-
-The New Year or a new month does not bring with it any new joy or sorrow. Every moment is new. Every second is new, because it heralds the march of time. A year is in fact a succession of seconds turning into minutes, days and months. It is only when every moment is cherished as new, will the new year become new. The sacred way in which every moment is spent will determine the fruitfulness of the year. If you wish to lead a sacred life and have sacred experiences, you must engage yourself in sacred actions. The good and evil in the world can be changed only by the change in men’s actions. Transformation of society must start with transformation of individuals.
-
-
-This morning the students recited a Vedic prayer about students living together in amity and acting in unison. But they did not mention the crucial passage in the prayer which declares: Let us live in harmony free from conflict” The Vedic hymn stresses that unity can come only when people live together without discord. Hence everyone should give no room for conflict or unrest but lead a life of harmony and love with others.
-
-
-Love is the dispeller of the darkness of ignorance
+Another important aspect of this journey is: be positive always. The second Sadhana Camp of the Sai Youth of Kerala was in progress at Brindavan. On 11th of April 2004, a drama was to be staged by the Sai Youth in the Sai Krishan Kalyanamandapam. At 4.45 pm, we went inside Trayee to report to Bhagavan that everything was ready. But Bhagavan gave us the opportunity to sit near him and talked to us on the theme of the drama. When the discussion came to the point of positivism, Bhagavan asked, “Where does this positivism come from?” Bhagavan was evidently not satisfied with the various answers that we gave; He went on asking the question over and over again. All that we could do was to pray for the Divine Answer on this vital point. Finally, Swami declared, “Positivism need not come from outside; it is inside only. Our duty is to develop it.”
   
 ![image](images/img1.jpg)
 
 
-God is ever love incarnate. His love permeates the world. The universe is termed Visvam because of the Lord’s presence in the entire cosmos. One of the names of the Lord is Vishnu. Etymologically the word refers to one who is present throughout the universe. God is the cause and the cosmos is the effect. The Lord is also known as Atma, which means light or effulgence.
+Kerala Sai Youth Sadhana Camps at Brindavan
 
 
-The Lord is the dispeller of the darkness of ignorance. Every word used in the ancient scriptures has profound inner meaning. This profundity is characteristic of the Bharatiya spiritual heritage. Very few are interested in exploring these profundities. Most people confine themselves to ritualistic worship for a brief time every day. They do not even attempt to know what for they are performing these rituals. There is no meaning in performing these rituals without understanding the purpose and goal of life. The ultimate purpose of all spiritual exercises is to realize the Love Principle (Love of the Divine). To foster love is the purpose of all spiritual endeavor. In no circumstance should love be given up or ignored. Where there is love, there can be no hatred, grief or want. 
+Bhagavan’s Love knows no limits. On one of the days of the Sadhana Camp for the Sai Youth of Kerala in 2005, two youngsters were selected to speak in the Divine Presence, as instructed by Bhagavan. When Swami came to the verandah of the Sai Kulwant Hall, the boys were about to get up to come to Swami. I signaled to them to sit down and conveyed to them that they could come to Swami after Swami occupied the chair. But Swami intervened and told me, “No… They are coming from distant places… Let them come to Me…”
 
 
-Time is passing. You are all growing in years. But there is little change in your attitudes. Purity in thought results in purity in knowledge and wisdom. Self-Realization can come only through spiritual wisdom (Jnana). Many in the world acquire wealth, fame and position. But what have they achieved in terms of the goal of life? Their failure is due to lack of understanding of the unity that underlies the apparent diversity. It is a mark of spiritual goodness to recognize the divine in everyone. Prahlada declared that you can find God wherever you seek Him. His father, Hiranyakasipu, was a great person because of his attainments. But he failed to achieve goodness because of his denial of the Divine. A similar difference can be seen between Rama’s goodness and Ravana’s greatness.
+It was on the first day of the Sadhana Camp for Sai Youth in 2003. All the Sai Youth had assembled at the Sai Ramesh Hall, when Swami came for Darshan. I prayed to Bhagavan to inaugurate the Camp, to which Swami asked, “At what time?” “Swami… 8.30…” I replied. “Why so early?” asked Swami, “The boys and girls have just come. They may not have had their breakfast.” It was another instance that revealed how much Swami cares for each and every one of us.
 
 
-The lesson for students today is that they should follow the sacred path of righteousness. They should work for the welfare of society. Students should cultivate three qualities. They should cherish love for all living beings; they should cultivate all good qualities; they should acquire all useful knowledge. Love is the basis for these three qualities. 
+Bhagavan has categorically remarked that His love for us is to the level of seeing Himself in every one of us. Let us see Swami in all, so that our love is pure, selfless and perfect. In this divine journey, it is best to realize that we are nothing and He is Everything. It is He who plans; it is He who does.
 
 
-Fill your Hearts with Love 
-
-
-See that your love for God does not fluctuate according to whether your wishes are fulfilled or not. Remember that you reap the fruits of your actions, according to whether they are good or bad. Love of God alone can confer enduring bliss. Eschew bad qualities like hatred and envy. Today marks the beginning of the year 1998. At least from today fill your hearts with Love. Look upon all as God’s children. Sri Krishna has declared that all human beings are sparks of Himself. This means that everyone should lead a godly life.
-
-
-Everyone should express his love to some persons everyday. Thereby the whole world will be filled with love. Ponder for a moment on the phenomenon you are witnessing here today, with thousands gathered from all parts of the world. What is the reason? You are seeking to find something here that is lacking in your native land. What is that? It is Divine Love. You are missing it in your place. You have not found it in yourself. Hence you have come here, like a sick man going to a hospital. Now that you have come here, take back with you Divine Love. Fill your hearts with that Love.
-
-
-Carry it with you wherever you go like a sick man who carries his medicines with him. Let Divine Love guide you like the mariner’s compass points ever toward the Divine. Dedicate all your thoughts and actions to the Divine. Thereby you will be divinising your entire life. It is by leading such a godly life that our ancients left a glorious heritage. Boys and girls today should fill their minds and hearts with such sacred ideals and transform the entire society into a loving community. 
-
-
-Sanctify all actions by dedicating them to God
-
-
-Students! Remember that you are in a ‘golden age’ in your lives. Do not waste it. Do your duty. Love and revere your parents. Serve society. Adhere to the good qualities associated with right education. Be happy and make others happy. From this new year onwards, when students cultivate humility, reverence for elders and love toward all, I shall feel very happy.
-
-
-At a meeting of the Central Trust yesterday, I told the members that I had no interest in property. Do not involve me in any connection with these properties. I do not wish to have any connection with money or property. My only concern is with my devotees. Telling them all this, I signed the papers.
-
-
-You are my property. When I have this boundless property, why should I have any interest in material assets? Students are my property. Nothing can give me greater pleasure than what I get from seeing the students lead ideal lives. That is the return I expect from you. No fee of any kind is received from you for your education. But I want you to pay one special fee - that is love. When you offer that fee, you will be offering everything, as it were.
-
-
-Lakshmana surrendered to Rama totally, declaring that he was offering his family and everything he possessed to Rama. Everyone should follow Lakshmana’s example. He revered his elder brother’s wife as his mother. 
+In 2004, a school named ‘Sri Sai Vidya Vihar’ was opened in Aluva. The response from the public was tremendous and applications piled up in our office. It became necessary that we purchased a new plot and constructed a bigger building. Banks came forward to offer help. Everything was set to take a financial loan from a bank. Suddenly a devotee came to our office and said, “Why take a loan? This is Swami’s school… I shall contribute the cost of the entire project.”
   
 ![image](images/img2.jpg)
 
 
-The eyes should see only what is good. The hands should be engaged in good actions. The ears should hear no evil and listen only to what is good. Talk no evil. Talk only what is good. Think no evil. Think what is good. Do no evil. Do what is good. This is the way to God. The eyes should see only sacred objects. The whole world will be transformed when your vision becomes holy. 
+Sri Sathya Sai Vidya Vihar, Aluva, Kerala
 
 
-This is New Year Day according to the Gregorian calendar. We have other New Year days according to the practice in different parts of the country. There is no need to bother about the year as such. Devote every moment to actions that will please God. Develop love for God, which will confer every blessing on you. This is exemplified by the life of Harishchandra. He sacrificed everything in the cause of truth. And ultimately he got back everything by the grace of God. On this New Year Day I wish you all every happiness and prosperity. The ancients used to bless those who come to them with long life of 100 years and good health. They wished the people long life so that they may lead worthy lives. Lead a long life, happy life, peaceful life, loving life and divine life. Redeem your lives by practicing Divine Love.
+We are amazed at the amount of confidence the society has in Swami and His Principles. When we announced the opening of the Sai School, many parents withdrew their children from prestigious schools (despite the heavy donations they had paid to them) and enrolled them in our school. To one of the Muslim parents who had come for admission, we made it clear that we would teach the children Bal Vikas lessons, Veda and Yoga, he happily responded, “Why not? These are part of our culture, let my child also learn them…” After one of the sessions of ‘Sai Parenting’ that was held in the school, a mother approached us and said, “I am terribly upset after today’s session; to this day, I have not been a good mother.”
+
+
+It is a matter of great joy seeing how the society of Kerala is adhering to Sai ideals. ‘Sai Parenting’ has become the guiding principle of families all over the state. When our young ‘Sai Soldiers’ - the team formed to take Swami’s message to newer and newer areas – visited new areas, they observed that Swami was not at all new there. Wherever they went, they were greeted by Bhagavan’s photographs. Now Swami’s Message is reaching every nook and corner of Kerala.
+
+
+Bhagavan’s Infinite Love has transformed the Sai Youth of the state. The three Sadhana Camps in the Divine Presence were unique and have provided golden opportunities for them. Now they are fully involved in the Grama Seva Project. We have also been arranging Summer Camps for the Bal Vikas children all over the state for the past three years. Going through the responses of the children, we understand that much more than the sessions of the camp, what touched and transformed them was the love and care the Sai brothers and sisters shared with them. They are motivated to involve themselves in the Sai activities.
+
+
+Now we have ‘Deenajanodharana Projects’ in all the fourteen districts of the state for rehabilitating destitutes - old and young. One of those who joined one such projects was a boy who had discontinued his studies. We enrolled him in the school and encouraged him to study. He has passed this year’s Std. X Public Examination with 68% marks. These centers convey Swami’s message of Love and Seva to the society. When we commenced this project in one district, the local people, belonging to all religions approached us and asked as to what they could do for the project. Thus Sai Seva transforms not only us, but the society also. Really, we are becoming the “role models” for the society to gauge the Glory of Sai. Once Swami asked a devotee as to what he wanted. He promptly replied, “Swami…. I want to merge in you…” “How is that possible?” Swami asked, “You are very fat… I am very small…” The statement that followed was very revealing, “It you want to merge with Me, become like Me…” Let us observe our Lord; let us emulate Him. Let us try to become like Him, so that we become one with Him.
+
+
+It was during the Onam of 2002. Bhagavan called me inside the interview room to ask about that year’s Onam Programme. When I took out my glasses to read, Bhagavan smilingly remarked, “See… You are only fifty… I don’t need any glasses… One has to use one’s energies properly.” What a great lesson! We should always be aware as to how we can match His Sankalpa.
+  
+![image](images/img3.jpg)
+
+
+Prof. Mukundan with Sri Sathya Sai
+
+
+This narrative will not be complete without sharing with you the Infinite Grace that Swami is showering upon my family and me. During one of the interviews, Swami said, “I am above you, below you, around you and in you… I shall always protect you…” Every split second of our lives has proved this to be Absolute Truth. When we are fully engaged in Sai Seva, Swami will take care of everything - not only the major things of our lives, but also the minutest ones. Once, my elder son, who was then a student at Prasanthi Nilayam, developed distressing headache. He was examined at the Superspecialty Hospital; nothing abnormal was found. The Warden asked me to take him to the NIMHANS, for a second opinion. I took him to Brindavan as Swami was there at that time, to take His blessings and permission. There, Swami told the Warden, “The boy has no problem, but for the satisfaction of the father, let him take him to the NIMHANS.”
+
+
+As I entered the doctor’s room at the NIIMHANS, he greeted me with a smile as if he knew me. He appeared to be from Kerala; when I told him that I was a Professor at the U.C. College, he was very happy. He was an old student of my college! And it is needless to say that the doctor, after examining my son, said that he had no problem of any sort! A few years back, we were about to leave for Puttaparthi, my younger son, who was then studying in the eighth standard, developed pain in the abdomen. The doctor diagnosed acute appendicitis and advised emergency surgery. His right lower abdomen bulged and was extremely painful. We took him to Parthi and Swami graciously granted us interview. After discussing the matters relating to the Sai Organization, I told Swami that my son was having appendicitis. “What appendicitis…” Swami asked, “No… No… Just Gas…” Within hours, all the pain and bulge disappeared.
+
+
+The rehearsal for the drama, ‘Bhakta Hanuman’, to be presented in the Divine Presence was on. One night, Swami came in my wife’s dream and told her that the boy who was enacting the role of Hanuman was not holding the mace in the way it should be. True, Swami takes care of even the minutest aspects of our life. Gratitude to our Beloved Bhagavan cannot be expressed fully. It is not to be explained with words, but to be expressed by plunging ourselves into Swami’s Divine Mission. What greater opportunity can we have than to be part of His Story!
 
 
 
 
 
-Source: Divine Discourse on 1 January 1998 at Sai Kulwant Hall, Prasanthi Nilayam
+Source: Sai Sparshan (2005)
