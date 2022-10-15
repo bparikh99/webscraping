@@ -63,7 +63,7 @@ def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path,
         count=count+1
         year=year_path.split("\\")[0]
         month=year_path.split("\\")[1]
-        date_val=f"{count}-{month}-{year}"
+        date_val=f"{year}-{month}-{count}"
         date="date: {0}".format(date_val)
         oldUrl="oldUrl: {0}".format(post_link)
 
