@@ -70,7 +70,7 @@ def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path,
         mdFile.new_line(format_data+val_title)
         mdFile.new_line(date)
         mdFile.new_line(oldUrl)
-        mdFile.new_line("tag:")
+        mdFile.new_line("tags:")
         mdFile.new_list(items=filtered_tags,marked_with="  -")      
         mdFile.write(format_data)
         for text in text_data:
