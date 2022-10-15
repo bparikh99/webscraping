@@ -40,7 +40,7 @@ def extract_details(post_link):
                     text_data.extend(text.split("^"))
                 else:
                     text_data.append(text)
-            title=soup.find("title").get_text()
+            title=soup.find("h3",class_="post-title entry-title").get_text(strip=True)
             images=soup.find("div",class_="widget Blog").find_all("img")[:-1]
             file=post_link.split("/")[-1].split(".")[0]
             tags=[tag.get_text(strip=True) for tag in soup.find("span",class_="post-labels").find_all("a")]
@@ -55,7 +55,7 @@ def extract_details(post_link):
 def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path,post_link):
 
     try:     
-        markdown_path=write_path+"\\"+year_path+"\\"+file+"\\"+file
+        markdown_path=write_path+"\\"+year_path+"\\"+file+"\\"+"index"
         mdFile = MdUtils(file_name=markdown_path+"temp.md")
         count=count+1
         format_data="---"+"\n"
@@ -66,10 +66,12 @@ def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path,
         date_val=f"{year}-{month}-{count}"
         date="date: {0}".format(date_val)
         oldUrl="oldUrl: {0}".format(post_link)
+        imgTag="image: images/img0.jpg"
 
         mdFile.new_line(format_data+val_title)
         mdFile.new_line(date)
         mdFile.new_line(oldUrl)
+        mdFile.new_line(imgTag)
         mdFile.new_line("tags:")
         mdFile.new_list(items=filtered_tags,marked_with="  -")      
         mdFile.write(format_data)
