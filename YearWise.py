@@ -63,14 +63,14 @@ def make_markdown(file,write_path,text_data,title,filtered_tags,count,year_path,
         count=count+1
         year=year_path.split("\\")[0]
         month=year_path.split("\\")[1]
-        date_val=f"{count}-{month}-{year}"
+        date_val=f"{year}-{month}-{count}"
         date="date: {0}".format(date_val)
         oldUrl="oldUrl: {0}".format(post_link)
 
         mdFile.new_line(format_data+val_title)
         mdFile.new_line(date)
         mdFile.new_line(oldUrl)
-        mdFile.new_line("tag:")
+        mdFile.new_line("tags:")
         mdFile.new_list(items=filtered_tags,marked_with="  -")      
         mdFile.write(format_data)
         for text in text_data:
